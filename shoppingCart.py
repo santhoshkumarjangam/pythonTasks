@@ -9,6 +9,7 @@ while True:
     print('Enter 3 for updating the items in cart')
     print('Enter 4 for deleting the items in cart')
     print('Enter 5 for printing bill')
+    print('Enter 6 for Exiting')
     print('-----------------------------------------')
     
     option = int(input('Enter Your Option: '))
