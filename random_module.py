@@ -7,7 +7,6 @@ while True:
     print('iteration:',i)
     if lucky == random_number:
         print('random number matched lucky number')
-        print()
         break
     else:
         print('random number did not matched lucky number')
